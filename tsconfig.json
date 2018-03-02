@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "module": "es6",
+    "strict": true,
+    "target": "es2015",
+    "moduleResolution": "node"
+  },
+  "exclude": ["node_modules"]
+}
