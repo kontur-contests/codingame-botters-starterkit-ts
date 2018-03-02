@@ -1,10 +1,9 @@
-import { NotImplementedMethod } from "./common/NotImplementedMethod";
 import { IO } from "./IO";
 
 export default class BaseStateReader {
   private lines: string[];
 
-  private readLine!: () => string;
+  protected readLine!: () => string;
 
   constructor(input: string | (() => string)) {
     this.lines = [];
