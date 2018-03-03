@@ -16,7 +16,7 @@
 
 ### Установка
 
-Клонируйте репозиторий: `git clone https://github.com/nanot1m/codeingame-botters-ts-starter.git`
+Клонируйте репозиторий: `git clone https://github.com/skbkontur/codingame-botters-starterkit-ts.git`
 
 Установите зависимости: `npm install` или `yarn install`
 
